@@ -1,0 +1,74 @@
+h1{
+    text-align: center;
+    color: rgb(238, 67, 187);
+    border: black solid 5px;
+    border-radius: 5px;
+    background-color:yellow;
+}
+
+h3{
+    border: black solid 5px;
+    border-radius: 5px;
+    display: inline-block;
+    background-color:red;
+    padding: 10px
+}
+
+table{
+    width: 300px;
+    height:200px;
+}
+
+#can {
+    background-color:pink;
+    padding: 10px
+    border-collapse:collapse;
+    border-radius: 5px;
+    border: black solid 5px;
+}
+
+#dry {
+    background-color:rgb(238, 132, 150);
+    padding: 10px
+    border-collapse:collapse;
+    border-radius: 5px;
+    border: black solid 5px;
+}
+
+#vg {
+    background-color:rgb(226, 84, 108);
+    padding: 10px
+    border-collapse:collapse;
+    border-radius: 5px;
+    border: black solid 5px;
+}
+
+#ss {
+    background-color:rgb(224, 21, 55);
+    padding: 10px
+    border-collapse:collapse;
+    border-radius: 5px;
+    border: black solid 5px;
+}
+
+#db {
+    width:300px;
+    max-height:200px;
+    padding-left: 300px;
+    position: relative;
+    bottom: 198px;
+}
+
+#fr {    
+    position: absolute;
+    top:400;
+    }
+
+#bp {
+    width:300px;
+    max-height:200px;
+    padding-left: 300px;
+    position: relative;
+    bottom: 197px;
+}
+
